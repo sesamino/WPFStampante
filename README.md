@@ -1,1 +1,1 @@
-# WPFStampante
+# Stampante
